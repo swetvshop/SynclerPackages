@@ -1,5 +1,3 @@
-![SweTV](@config/logo.png){width=40 height=40}
-
 # Configure Your Package:
 
 The following Syncler v2 vendor manifests are available to be configured:
