@@ -57,7 +57,7 @@ const App = Vue.createApp({
       const version = urlParams.get('v') == 1 ? 1 : 2;
       return {
         version: version,
-        url: version == 2 ? 'https://syncler.swetv.shop' : 'https://syncler-providers.herokuapp.com/syncler'
+        url: version == 2 ? 'https://syn.swetv.shop' : 'https://syncler-providers.herokuapp.com/syncler'
       };
     },
     expressParams() {
